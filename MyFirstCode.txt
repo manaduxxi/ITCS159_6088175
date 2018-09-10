@@ -1,1 +1,2 @@
 Hello world!
+"add from the myNewFeature"
